@@ -1,0 +1,7 @@
+{
+  "name": "Latimore Life & Legacy - Digital Business Card",
+  "description": "An elegant, professional digital business card for Jackson M. Latimore Sr., Founder & CEO of Latimore Life & Legacy LLC, featuring direct links, contact management, and an AI legacy assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
